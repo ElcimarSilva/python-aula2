@@ -44,5 +44,3 @@ while True:
         exit()
     else:
         print("Opção Invalida")
-
-

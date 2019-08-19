@@ -13,3 +13,6 @@ while True:
         break
     print ('Opção invalida, tente novamente\n', end='')
 print(f'voce digitou o numero {cont[numero]}') # Mostra o valor da tupla formatado
+
+
+
