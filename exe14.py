@@ -2,3 +2,4 @@
 
 for i in range(10):
     print(f"8 x {i} = {8*i}")# Cada vez que realiza p for acrescenta 1 ao (i)
+
