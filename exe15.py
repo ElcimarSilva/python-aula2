@@ -9,5 +9,5 @@ while menor10 <10:
         menor10=menor10+1
         lista.append(valor)
 maior = max(lista)
-print (maior) # Falta Mostrar bonitinho
+print ("O maior numero da lista é ",maior) # Falta Mostrar bonitinho
 
